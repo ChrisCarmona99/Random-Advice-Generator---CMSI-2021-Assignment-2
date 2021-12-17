@@ -22,7 +22,7 @@ export default function App() {
       <footer>
         CMSI 2021
         <div id="projectMembers">
-          Chris Carmona | Claudia Gusti | Stephanie Susilo{" "}
+          Chris Carmona | Claudia Gusti | Stephanie Susilo
         </div>
         <a href="https://github.com/ChrisCarmona99/Random-Advice-Generator---CMSI-2021-Assignment-2.git">
           GitHub Repo
