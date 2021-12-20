@@ -4,6 +4,6 @@ This repository contains all of the project files for our Random Advice Generato
 
 Link to Random Advice Generator: https://sjr0i.csb.app/
 
-GitHub Pages Website: https://chriscarmona99.github.io/Random-Advice-Generator---CMSI-2021-Assignment-2/
+GitHub Pages Website: https://cgusti.github.io/RandomAdviceGenerator/
 
 Collaborators: Claudia Gusti, Stephanie Susilo, Chris Carmona
